@@ -16,3 +16,5 @@ after that type
 cmake --build build
 
 both these commands take some time and create the build folder
+
+<img width="998" height="735" alt="image" src="https://github.com/user-attachments/assets/9a7b9faf-36b8-4d82-a634-2be4f4df2ec5" />
